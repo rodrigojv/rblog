@@ -1,5 +1,3 @@
-import { CMS_NAME, CMS_URL } from "../lib/constants";
-
 export default function Intro() {
   return (
     <section className="items-center  mt-16 mb-16 md:mb-12">
